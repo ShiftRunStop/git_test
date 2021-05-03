@@ -1,0 +1,1 @@
+This is ShiftRunStop's first GIT project
